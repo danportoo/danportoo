@@ -6,12 +6,14 @@
   <a href=https://www.instagram.com/danportoo/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danportoo15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-porto-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </strong>
-</p>
+</p> 
+<br>
 
 Hi, I'm Daniel Porto, a Information Systems student.
 
 - 🔭 I’m currently working on CREMERJ;
 - 🌱 I’m currently learning HTML5 and CSS3.
+ <br>
 
 <div>
   <p><b>Github Stats:octocat: </b></p>
@@ -20,7 +22,8 @@ Hi, I'm Daniel Porto, a Information Systems student.
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=danportoo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danportoo&layout=compact&langs_count=7&theme=react"/>
   </center>
-</div><br>
+</div>  <br>
+ 
 
  
  <!-- tecnologias -->
