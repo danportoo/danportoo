@@ -17,8 +17,8 @@ Hi, I'm Daniel Porto, a Information Systems student.
   <p><b>Github Stats:octocat: </b></p>
   <center>
   <a href="https://github.com/danportoo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danportoo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danportoo&layout=compact&langs_count=7&theme=react"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=danportoo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danportoo&layout=compact&langs_count=7&theme=react"/>
   </center>
 </div><br>
 
